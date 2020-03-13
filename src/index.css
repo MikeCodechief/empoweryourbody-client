@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.header-img {
+  height: 78vh;
+  min-height: 400px;
+  background-image: url("./images/header_background.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+.info-img {
+  height: 78vh;
+  min-width: 400px;
+  background-image: #f1f1f1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.info-icon {
+  font-size: 5em;
+  color: #5ae0c1;
+}
+.product-img {
+  /* height: 78vh; */
+  height: 78vh;
+  min-width: 400px;
+  background-image: #f1f1f1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.massagegun {
+  transform: rotate(45deg);
+}
+.info-img {
+  height: 78vh;
+  min-height: 400px;
+  background-image: url("./images/back.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.footer-background {
+  height: 30vh;
+  background-color: #0a0a0a;
+}
+.footer-icons {
+  font-size: 3em;
+  color: #555;
+}
